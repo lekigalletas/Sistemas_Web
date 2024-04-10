@@ -11,6 +11,11 @@ Este repositorio contiene el código para una aplicación web de grabación y co
 - Funcionalidad de compartir y colaborar.
 - Interfaz de usuario intuitiva.
 
+**Comandos Principales**
+
+- Ejecucion cross-env DEBUG=notas-voz:* npm start
+- Visualizacion http://localhost:3000
+
 **Tecnologías:**
 
 - Frontend: HTML, CSS, JavaScript.
