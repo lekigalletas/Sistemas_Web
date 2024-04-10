@@ -18,9 +18,6 @@ Este repositorio contiene el código para una aplicación web de grabación y co
 
 **Licencia:**
 
-Por supuesto, aquí tienes la Licencia MIT:
-
-```
 Licencia MIT
 
 Copyright (c) 2023 Ander Lekanda Gonzalo
@@ -42,4 +39,3 @@ AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAM
 RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, DERIVADO DE,
 FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS NEGOCIOS EN EL
 SOFTWARE.
-```
